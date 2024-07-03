@@ -1,8 +1,8 @@
 import { RiShutDownLine } from "react-icons/ri"
 import { useAuth } from "../../hooks/auth.jsx"
 
-import { api } from "../../services/api.js"
 import avatarPlaceholder from "../../assets/avatar_placeholder.svg"
+import { api } from "../../services/api.js"
 
 import { Container, Profile, Logout } from "./styles.js"
 import { useNavigate } from "react-router-dom"
