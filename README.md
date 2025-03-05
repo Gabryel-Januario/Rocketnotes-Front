@@ -1,6 +1,6 @@
 <h1 align="center">🌐 RocketNotes</h1>
 
-![image](./src/assets/imagem.png)
+![image](./src/assets/image.png)
 
 
 
@@ -21,17 +21,17 @@
 <h3 align="center">⭐ Perfil!</h3>
 
 <p align="center">
-  <img width="700px" src="./src/assets/imagem1.png">
+  <img width="700px" src="./src/assets/image1.png">
 </p>
 
 <h3 align="center">⭐ Criação De Nota!</h3>
 <p align="center">
-  <img width="700px" src="./src/assets/imagem4.png">
+  <img width="700px" src="./src/assets/image4.png">
 </p>
 
 <h3 align="center">⭐ Registro</h3>
 <p align="center">
-  <img width="700px" src="./src/assets/imagem2.png">
+  <img width="700px" src="./src/assets/image2.png">
 </p>
 
 
